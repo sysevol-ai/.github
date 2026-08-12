@@ -1,22 +1,19 @@
-# SysEvol
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sysevol-ai/CodeNib/main/assets/codenib_logo.svg" alt="SysEvol" width="260">
+  <p>Open-source tools for understanding, searching, and evolving software systems with AI.</p>
+  <a href="https://discord.gg/ySer6CGn4"><img src="https://img.shields.io/badge/Discord-join-5865F2?logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://huggingface.co/sysevol-ai"><img src="https://img.shields.io/badge/Hugging%20Face-sysevol--ai-FFD21E?logo=huggingface&logoColor=black" alt="Hugging Face"></a>
+  <a href="https://github.com/sysevol-ai"><img src="https://img.shields.io/badge/GitHub-sysevol--ai-181717?logo=github&logoColor=white" alt="GitHub"></a>
+</div>
 
-SysEvol builds open-source tools for understanding, searching, and evolving
-software systems with AI.
+## Projects
 
-## Featured project
+| | Project | Description |
+|---|---|---|
+| 🧭 | [**CodeNib**](https://github.com/sysevol-ai/CodeNib) | Searchable repository Wikis and reusable context for coding agents. |
 
-### [CodeNib](https://github.com/sysevol-ai/CodeNib)
+[Project guide](https://github.com/sysevol-ai/.github/blob/main/projects/codenib.md) ·
+[Documentation](https://docs.codenib.ai/) ·
+[Quickstart](https://docs.codenib.ai/quickstart/)
 
-CodeNib turns repositories into searchable Wikis and reusable context for
-coding agents. It combines hybrid code retrieval, structural navigation, and
-MCP integrations in a local-first workflow.
-
-- [Documentation](https://docs.codenib.ai/)
-- [Quickstart](https://docs.codenib.ai/quickstart/)
-- [Project guide](https://github.com/sysevol-ai/.github/blob/main/projects/codenib.md)
-
-## Join the community
-
-- [Discord](https://discord.gg/ySer6CGn4)
-- [Hugging Face](https://huggingface.co/sysevol-ai)
-- [All SysEvol projects](https://github.com/sysevol-ai/.github/tree/main/projects)
+More projects will be added as they become ready.

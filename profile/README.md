@@ -10,7 +10,7 @@
 
 | | Project | Description |
 |---|---|---|
-| 🧭 | [**CodeNib**](https://github.com/sysevol-ai/CodeNib) | Searchable repository Wikis and reusable context for coding agents. |
+| 🔎 | [**CodeNib**](https://github.com/sysevol-ai/CodeNib) | Searchable repository Wikis and reusable context for coding agents. |
 
 [Project guide](https://github.com/sysevol-ai/.github/blob/main/projects/codenib.md) ·
 [Documentation](https://docs.codenib.ai/) ·

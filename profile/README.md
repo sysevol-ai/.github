@@ -12,7 +12,7 @@
 |---|---|---|
 | 🔎 | [**CodeNib**](https://github.com/sysevol-ai/CodeNib) | Searchable repository Wikis and reusable context for coding agents. |
 
-[Project guide](https://github.com/sysevol-ai/.github/blob/main/projects/codenib.md) ·
+[Website](https://codenib.ai/) ·
 [Documentation](https://docs.codenib.ai/) ·
 [Quickstart](https://docs.codenib.ai/quickstart/)
 
